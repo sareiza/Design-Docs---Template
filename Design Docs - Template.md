@@ -7,7 +7,7 @@ El título de su documento de diseño, el/los autor/es (debería/n ser los mismo
 ## Authors
 - [Sabin Areiza](https://github.com/sareiza)
 
-## reviewers
+## Reviewers
 son las personas que van a revisar el documento antes de iniciar a programar
 - [Sabin Areiza](https://github.com/sareiza)
 
