@@ -41,3 +41,6 @@ La plantilla cuenta con las siguientes secciones organizadas de alto a bajo nive
 2. Copia el archivo de la plantilla (`template.md` o el archivo principal) al directorio del proyecto en el que vayas a trabajar.
 3. Completa las secciones según las necesidades específicas de la arquitectura a diseñar.
 4. Utiliza las secciones de discusión y revisión antes de dar por aprobado el diseño final.
+
+
+Se anexa ademas la pagina por medio de la cual se utilizó para realizar el formato, además de que tambien sirve para el readme. https://readme.so/
