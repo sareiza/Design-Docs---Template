@@ -7,6 +7,9 @@ El título de su documento de diseño, el/los autor/es (debería/n ser los mismo
 ## Authors
 - [Sabin Areiza](https://github.com/sareiza)
 
+## reviewers
+son las personas que van a revisar el documento antes de iniciar a programar
+- [Sabin Areiza](https://github.com/sareiza)
 
 ## Overview / Descripcion General
 Un resumen de alto nivel que todos los ingenieros de la empresa deberían comprender y utilizar para decidir si les conviene leer el resto del documento. No debe exceder los 3 párrafos.
