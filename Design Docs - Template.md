@@ -6,10 +6,12 @@ El título de su documento de diseño, el/los autor/es (debería/n ser los mismo
 
 ## Authors
 - [Sabin Areiza](https://github.com/sareiza)
+- [Antony Martinez](https://github.com/antonymruiz)
 
 ## Reviewers
 son las personas que van a revisar el documento antes de iniciar a programar
 - [Sabin Areiza](https://github.com/sareiza)
+- [Antony Martinez](https://github.com/antonymruiz) (Aporte sobre conocimiento técnico)
 
 ## Overview / Descripcion General
 Un resumen de alto nivel que todos los ingenieros de la empresa deberían comprender y utilizar para decidir si les conviene leer el resto del documento. No debe exceder los 3 párrafos.
@@ -69,6 +71,7 @@ Primero, ofrece una visión general y luego añade muchos detalles. Imagina un m
 ## Testability, Monitoring and Alerting
 
 Me gusta incluir esta sección porque la gente suele pasarla por alto o directamente la omite, y casi siempre les pasa factura más adelante cuando las cosas se estropean y no tienen ni idea de cómo ni por qué.
+
 ## Cross-Team Impact
 ¿Cómo afectará esto al aumento de la carga de trabajo en guardia y de desarrollo/operaciones? ¿
 Cuánto costará?
@@ -76,6 +79,16 @@ Cuánto costará?
 ¿Revela alguna vulnerabilidad de seguridad?
 ¿Cuáles son algunas consecuencias negativas y efectos secundarios?
 ¿Cómo podría el equipo de soporte comunicar esto a los clientes?
+
+## Risk Matrix
+
+Una matriz de riesgos es una herramienta visual (generalmente una tabla o cuadrícula) que permite identificar, clasificar y priorizar los riesgos de un proyecto según dos criterios principales:
+
+Probabilidad de ocurrencia (qué tan probable es que el riesgo se materialice)
+Impacto (qué tan grave sería el efecto si el riesgo ocurre)
+
+Cruzando estas dos variables (normalmente en escalas como bajo/medio/alto), obtienes una cuadrícula donde cada riesgo identificado se ubica en una celda, lo que te da una idea rápida de cuáles son críticos y cuáles no.
+
 ## Open Cuestion
 Cualquier cuestión pendiente sobre la que no esté seguro, decisiones polémicas sobre las que le gustaría que los lectores dieran su opinión, sugerencias para futuros trabajos, etc. Un nombre irónico para esta sección es «las incógnitas conocidas».
 ## Detailed Scoping and Timeline/Alcance detallado y cronograma
