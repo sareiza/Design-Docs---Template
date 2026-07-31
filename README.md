@@ -29,9 +29,10 @@ La plantilla cuenta con las siguientes secciones organizadas de alto a bajo nive
 8. **Alternative Solutions:** Evaluación de alternativas consideradas (Pros y Contras).
 9. **Testability, Monitoring and Alerting:** Estrategia de pruebas y monitoreo en producción.
 10. **Cross-Team Impact:** Impacto en rendimiento, costos, seguridad y equipos operativos.
-11. **Open Questions:** Registro de "incógnitas conocidas" e incertidumbres pendientes.
-12. **Detailed Scoping and Timeline:** Desglose fino de tareas y cronograma para ejecución.
-13. **Discussions:** Consolidado de desacuerdos técnicos y debates clave.
+11. **Risk-Matrix:** Análisis de los riesgos que puede conllevar el desarrollo del proyecto y como afrontarlos.
+12. **Open Questions:** Registro de "incógnitas conocidas" e incertidumbres pendientes.
+13. **Detailed Scoping and Timeline:** Desglose fino de tareas y cronograma para ejecución.
+14. **Discussions:** Consolidado de desacuerdos técnicos y debates clave.
 
 ---
 
